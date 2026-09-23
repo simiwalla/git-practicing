@@ -1,1 +1,1 @@
-# git-practicing
+This is my first GitHub project.
